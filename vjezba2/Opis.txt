@@ -1,0 +1,6 @@
+Repozitorij za predaju datoteka laboratorijskih vježbi.
+Predaje se jedna datoteka po vježbi.
+Datoteke svih vježbi se predaju u isti repozitorij.
+Datoteku svake vježbe nazvati sukladno nomenklaturi: "Vježba <X> - <Ime> <Prezime>"
+<x>, <Ime> i <Prezime> su varijabilni dijelovi naziva.
+
