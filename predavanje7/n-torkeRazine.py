@@ -1,0 +1,5 @@
+ntorka = (((1,2), (3,4)), ((5,6), (7,8)))
+print(ntorka[0][0][0], ntorka[0][0][1])
+print(ntorka[0][1][0], ntorka[0][1][1])
+print(ntorka[1][0][0], ntorka[1][0][1])
+print(ntorka[1][1][0], ntorka[1][1][1])
